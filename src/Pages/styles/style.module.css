@@ -1,0 +1,183 @@
+.bottomNavbar{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    background-color: white;
+}
+.topsearchStyle{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+.topNav{
+    display: flex;
+    flex-direction: column;
+}
+.filtericonDiv{
+    display: flex;
+    justify-content: space-evenly;
+}
+.productsScroll{
+    overflow: scroll;
+    padding-top: 10px;
+    padding-bottom: 70px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.productCard{
+   
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+   
+}
+.productcardDiv{
+    width: 40%;
+    margin: 10px;
+    cursor: pointer;
+}
+.filter{
+    display:flex;
+    justify-content:space-evenly;
+    align-items:center;
+    padding-top: 10px;
+}
+.filterKey{
+    text-align: center;
+}
+.notSelected{
+    color: black;
+    border-color: black;
+    padding: 5px;
+    border-radius: 8px;
+    text-align: center;
+}
+.selected{
+    background-color: black;
+    color: aliceblue;
+    padding: 5px;
+    border-radius: 8px;
+    text-align: center;
+}
+.filterrow{
+    display: flex;
+}
+.topsearchStyle{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 100;
+   
+}
+.topheadingProduct{
+    position: fixed;
+    background-color: white;
+    padding: 10px;
+    top: 0;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 100;
+}
+.headingstyle{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 !important;
+  
+}
+.bottomnavStyle{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    padding: 10px;
+    border-top: 1px solid grey;
+    z-index: 100;
+    background-color: white;
+}
+.addtoCart{
+    display: flex;
+    justify-content: end;
+  
+}
+.addtoCartbtn{
+    background-color: black;
+    color:white;
+    height: 40px;
+}
+.productPage{
+    padding: 80px 0px;
+    overflow: scroll;
+}
+.sizebtn{
+    height:50px;
+    width: 50px;
+    border-radius:8px;
+    margin-left: 5px;
+}
+.productdetailsText{
+    margin: 10px 0;
+}
+.checkoutBtn{
+    width: 100%;
+    background-color: black;
+    color:white;
+    height: 40px;
+}
+.checkoutDiv{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.productcheckoutDiv{
+    margin: 16px;
+    display: flex;
+    flex-direction: row !important;
+    height: fit-content;
+    background: #F2F2F2;
+    padding: 0 !important;
+
+}
+.productcardDiv .ant-card-body{
+    padding: 2px !important;
+}
+.productcheckoutImage{
+    max-width: 75%;
+    padding-top: 10px;
+    border: 1px solid rgba(0, 0, 0, 0.2); border-radius: 4.53416px;
+}
+
+.mycartDiv{
+    padding: 60px 0px;
+    overflow: scroll;
+}
+.productdetailsDiv{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.totalpriceText{
+    text-align: right;
+}
+.pricingSection{
+    text-align: center;
+    padding: 0 10px;
+}
+.totalpricetextHeading{
+    text-align: left;
+}
+.pricingrow{
+    padding: 5px 0;
+}
+.addVoucher{
+    background: #F2F2F2;
+}
+.productTitle{
+    margin: 2px 0px;
+}
+.divider{
+    background-color: grey;
+}
