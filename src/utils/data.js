@@ -1,6 +1,6 @@
 export const data=[
     {
-      img:'/src/assets/image1.png',
+      img:'/images/image1.png',
       price:'₹1250',
       description:'stay trendy with the all new tshirt',
       title:'trendy tshirt',
@@ -10,7 +10,7 @@ export const data=[
       ]
     },
     {
-        img:'/src/assets/image2.png',
+        img:'/images/image2.png',
         price:'₹1250',
         description:'stay trendy with the all new tshirt',
         title:'trendy tshirt',
@@ -20,7 +20,7 @@ export const data=[
         ]
       },
       {
-        img:'/src/assets/image3.png',
+        img:'/images/image3.png',
         price:'₹1250',
         description:'stay trendy with the all new tshirt',
         title:'trendy tshirt',
@@ -30,7 +30,7 @@ export const data=[
         ]
       },
       {
-        img:'/src/assets/image4.png',
+        img:'/images/image4.png',
         price:'₹1250',
         description:'stay trendy with the all new tshirt',
         title:'trendy tshirt',
@@ -42,7 +42,7 @@ export const data=[
         
       },
       {
-        img:'/src/assets/image1.png',
+        img:'/images/image1.png',
         price:'₹1250',
         description:'stay trendy with the all new tshirt',
         title:'trendy tshirt',
@@ -53,7 +53,7 @@ export const data=[
         category:'Kids'
       },
       {
-        img:'/src/assets/image3.png',
+        img:'/images/image3.png',
         price:'₹1250',
         description:'stay trendy with the all new tshirt',
         title:'trendy tshirt',
@@ -64,7 +64,7 @@ export const data=[
         category:'Kids'
       },
       {
-        img:'/src/assets/image2.png',
+        img:'/images/image2.png',
         price:'₹1250',
         description:'stay trendy with the all new tshirt',
         title:'trendy tshirt',
@@ -75,7 +75,7 @@ export const data=[
         category:'Kids'
       },
       {
-        img:'/src/assets/image4.png',
+        img:'/images/image4.png',
         price:'₹1250',
         description:'stay trendy with the all new tshirt',
         title:'trendy tshirt',
@@ -86,7 +86,7 @@ export const data=[
         category:'Kids'
       },
       {
-        img:'/src/assets/image1.png',
+        img:'/images/image1.png',
         price:'₹1250',
         description:'stay trendy with the all new tshirt',
         title:'trendy tshirt',
@@ -97,7 +97,7 @@ export const data=[
         category:'Women'
       },
       {
-        img:'/src/assets/image4.png',
+        img:'/images/image4.png',
         price:'₹1250',
         description:'stay trendy with the all new tshirt',
         title:'trendy tshirt',
@@ -108,7 +108,7 @@ export const data=[
         category:'Women'
       },
       {
-        img:'/src/assets/image3.png',
+        img:'/images/image3.png',
         price:'₹1250',
         description:'stay trendy with the all new tshirt',
         title:'trendy tshirt',
@@ -120,7 +120,7 @@ export const data=[
       },
 
       {
-        img:'/src/assets/image2.png',
+        img:'/images/image2.png',
         price:'₹1250',
         description:'stay trendy with the all new tshirt',
         title:'trendy tshirt',
@@ -131,7 +131,7 @@ export const data=[
         category:'Men'
       },
       {
-        img:'/src/assets/image1.png',
+        img:'/images/image1.png',
         price:'₹1250',
         description:'stay trendy with the all new tshirt',
         title:'trendy tshirt',
@@ -142,7 +142,7 @@ export const data=[
         category:'Men'
       },
       {
-        img:'/src/assets/image3.png',
+        img:'/images/image3.png',
         price:'₹1250',
         description:'stay trendy with the all new tshirt',
         title:'trendy tshirt',
@@ -153,7 +153,7 @@ export const data=[
         category:'Men'
       },
       {
-        img:'/src/assets/image2.png',
+        img:'/images/image2.png',
         price:'₹1250',
         description:'stay trendy with the all new tshirt',
         title:'trendy tshirt',

@@ -1,6 +1,6 @@
 export const cartdata=[
     {
-      img:'/src/assets/image1.png',
+      img:'/images/image1.png',
       price:'₹1250',
       description:'stay trendy with the all new tshirt',
       title:'trendy tshirt',
@@ -9,7 +9,7 @@ export const cartdata=[
       qty:'4',
     },
     {
-        img:'/src/assets/image2.png',
+        img:'/images/image2.png',
         price:'₹1250',
         description:'stay trendy with the all new tshirt',
         title:'trendy tshirt',
@@ -19,7 +19,7 @@ export const cartdata=[
        
       },
       {
-        img:'/src/assets/image3.png',
+        img:'/images/image3.png',
         price:'₹1250',
         description:'stay trendy with the all new tshirt',
         title:'trendy tshirt',
