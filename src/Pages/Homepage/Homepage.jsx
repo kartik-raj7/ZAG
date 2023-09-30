@@ -4,7 +4,7 @@ import BottomNavbar from './utils/BottomNavbar'
 import { BellOutlined, FilterOutlined, SearchOutlined } from '@ant-design/icons'
 import { Button, Col, Input, Row } from 'antd'
 import style from '../styles/style.module.css'
-import Products from './Products/products'
+import Products from './Products/Products'
 import Filter from './utils/Filter'
 const Homepage = () => {
   return (
